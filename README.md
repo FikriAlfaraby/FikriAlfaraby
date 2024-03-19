@@ -7,10 +7,7 @@
 Hi everyone! I'm `Fikri Alfaraby`. I have a strong passion for technology and I love sharing my knowledge with the people
 around me.
 
-Now, I'm focused on being a `Front End developer`, with expertise in `React JS`, `Next JS`, `Nuxt JS` which uses the display library
-Bootstrap, Tailwind CSS, Material UI, and so on. I have been able to apply my knowledge of web development
-frameworks and programming languages to create responsive and user-friendly websites. Additionally, I've gained experience
-working collaboratively with other developers, designers, and project managers to ensure timely project delivery.
+Now, I'm fully dedicated to mastering the realm of Full Stack development, specializing in React JS, Next JS, and Nuxt JS. Through deliberate effort and continuous learning, I've honed my skills in both frontend and backend development, enabling me to craft dynamic, responsive, and intuitive websites.
 
 I am excited about the future of technology and the limitless possibilities it brings, and I’m looking forward to contributing to
 its growth and development.
@@ -44,7 +41,6 @@ its growth and development.
 
 ## Our Certificate
 
-<h4><a href="https://www.hackerrank.com/certificates/a2e325043112" target="_blank"></a></h4>
 
 <br><br><br>
 ![profile](https://komarev.com/ghpvc/?username=FikriAlfaraby&color=blue)
