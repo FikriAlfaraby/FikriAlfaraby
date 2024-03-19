@@ -4,7 +4,7 @@
 
 <!-- Bio -->
 
-Hi everyone! I'm `Ijlal Windhi Saputra`. I have a strong passion for technology and I love sharing my knowledge with the people
+Hi everyone! I'm `Fikri Alfaraby`. I have a strong passion for technology and I love sharing my knowledge with the people
 around me.
 
 Now, I'm focused on being a `Front End developer`, with expertise in `React JS` and `Next JS` which uses the display library
