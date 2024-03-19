@@ -38,8 +38,9 @@ its growth and development.
 ## Our Project
 <h3><a href="https://bombi-man-microphone.vercel.app/" target="_blank">Chatbot Bombi SMK Telkom Malang</a></h3>
 <h3><a href="https://ignite.jesica.online/" target="_blank">Ignite ( Aplikasi Kursus Online Karyawan Internal Telkomsigma)  Under Development </a></h3>
-<h3><a href="https://monara.jesica.online/" target="_blank">Monara (Aplikasi Monitoring layanan telkom) Under Development </a></h3>
+<h3><a href="https://monara.jesica.online/" target="_blank">Monara (Aplikasi Monitoring Layanan Telkomsigma) Under Development </a></h3>
 <h3><a href="https://bukutamu.jesica.online/" target="_blank">Aplikasi Pencatatan Data Tamu SMK Telkom Malang Under Development</a></h3>
+<h3><a href="https://curhatan.jesica.online/" target="_blank">Aplikasi Curhatan Online Siswa SMK Telkom Malang Under Development</a></h3>
 
 
 ## Our Certificate
