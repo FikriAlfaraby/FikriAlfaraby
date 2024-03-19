@@ -7,8 +7,8 @@
 Hi everyone! I'm `Fikri Alfaraby`. I have a strong passion for technology and I love sharing my knowledge with the people
 around me.
 
-Now, I'm focused on being a `Front End developer`, with expertise in `React JS` and `Next JS` which uses the display library
-Chakra UI, Bootstrap, Tailwind CSS, Material UI, and so on. I have been able to apply my knowledge of web development
+Now, I'm focused on being a `Front End developer`, with expertise in `React JS`, `Next JS`, `Nuxt JS` which uses the display library
+Bootstrap, Tailwind CSS, Material UI, and so on. I have been able to apply my knowledge of web development
 frameworks and programming languages to create responsive and user-friendly websites. Additionally, I've gained experience
 working collaboratively with other developers, designers, and project managers to ensure timely project delivery.
 
