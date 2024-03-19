@@ -40,14 +40,7 @@ its growth and development.
 
 ## Our Project
 
-<h3><a href="https://mainkan.web.app" target="_blank">Mainkan</a></h3>
-<h3><a href="https://rampung-analytic.firebaseapp.com" target="_blank">Rampung Analytic</a></h3>
-<h3><a href="https://meticmoklet.com" target="_blank">Metic Moklet</a></h3>
-<h3><a href="https://explore-taiwan.netlify.app/" target="_blank">Explore Taiwan</a></h3>
-<h3><a href="https://pdam-tirta-complaint-frontend-service.vercel.app/" target="_blank">PDAM Tirta Sidoarjo</a></h3>
-<h3><a href="https://blog-post-auvers.vercel.app/" target="_blank">Auvers</a></h3>
-<h3><a href="https://sobiyutiful.vercel.app/" target="_blank">Sobiyutiful</a></h3>
-<h3><a href="https://asc-real-estate.vercel.app/" target="_blank">Real Estate</a></h3>
+
 
 ## Our Certificate
 
