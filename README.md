@@ -7,7 +7,7 @@
 Hi everyone! I'm `Fikri Alfaraby`. I have a strong passion for technology and I love sharing my knowledge with the people
 around me.
 
-Now, I'm fully dedicated to mastering the realm of Full Stack development, specializing in React JS, Next JS, and Nuxt JS. Through deliberate effort and continuous learning, I've honed my skills in both frontend and backend development, enabling me to craft dynamic, responsive, and intuitive websites.
+Now, I'm fully dedicated to mastering the realm of Frontend development, specializing in React JS, Next JS, and Nuxt JS. Through deliberate effort and continuous learning, I've honed my skills in both frontend development, enabling me to craft dynamic, responsive, and intuitive websites.
 
 I am excited about the future of technology and the limitless possibilities it brings, and I’m looking forward to contributing to
 its growth and development.
