@@ -5,7 +5,8 @@ I'm Product Tech Lead at Ordonesia, where I own a B2B chat, WhatsApp broadcast a
 
 **Things I built recently**
 
-- [**terminal-bench-id**](https://github.com/FikriAlfaraby/terminal-bench-id): three Indonesian-language Terminal-Bench 2.0 tasks (Javanese calendar, rupiah and messy encodings, pre-1972 spelling with Unicode noise). Each has a deterministic verifier, and a trap validator injects 11 typical agent mistakes to confirm every one is caught.
+- [**oracle-mutants**](https://github.com/FikriAlfaraby/oracle-mutants): mutation testing for AI benchmark graders. It breaks a task's reference answer in hundreds of small ways, reruns the real verifier on each, and reports what still scores full marks. On Terminal-Bench it found a verifier gap nobody had reported ([terminal-bench#2243](https://github.com/harbor-framework/terminal-bench/issues/2243)). Write-up: [Do benchmark verifiers reject wrong answers?](https://fikrialfaraby.com/notes/verifier-mutants/)
+- [**terminal-bench-id**](https://github.com/FikriAlfaraby/terminal-bench-id): three Indonesian-language Terminal-Bench tasks (Javanese calendar, rupiah and messy encodings, pre-1972 spelling with Unicode noise). Each has a deterministic verifier, and a trap validator injects 11 typical agent mistakes to confirm every one is caught.
 - [**wa-lead-extractor**](https://github.com/FikriAlfaraby/wa-lead-extractor): an LLM pipeline for WhatsApp sales leads. Every extracted fact must cite its source message or it is dropped. LLM-as-judge evals run in CI, and a human approves each outgoing message. 57 tests.
 - [**ai-visibility-scan**](https://github.com/FikriAlfaraby/ai-visibility-scan): measures which brands LLMs recommend, across models, with resumable runs and rate-limit-aware retries.
 
